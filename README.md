@@ -1,6 +1,7 @@
 # QUIZ
 Aplikacja mobilna przeznaczona na urządzenia z systemem Android.
 <hr/>
+
 #### Instalacja
 
 Sklonuj repozytorium i uruchom projekt w środowisku Android Studio przy pomocy emulatora lub własnego urządzenia podłączonego do komputera.
